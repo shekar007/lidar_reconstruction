@@ -1,0 +1,2 @@
+lidar_project
+-DCATKIN_DEVEL_PREFIX=/home/imshekar/lidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/imshekar/lidar_ws/install -G Unix Makefiles

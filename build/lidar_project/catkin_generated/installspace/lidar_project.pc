@@ -1,0 +1,8 @@
+prefix=/home/imshekar/lidar_ws/install
+
+Name: lidar_project
+Description: Description of lidar_project
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime
